@@ -1,0 +1,14 @@
+{
+  "level": "Level",
+  "break": "Break",
+  "next": "Next",
+  "sb": "SB",
+  "bb": "BB",
+  "ante": "Ante",
+  "players": "Players",
+  "avgStack": "Avg Stack",
+  "pause": "Pause",
+  "resume": "Resume",
+  "start": "Start",
+  "finish": "Finish"
+}

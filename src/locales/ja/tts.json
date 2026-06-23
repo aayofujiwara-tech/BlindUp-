@@ -1,0 +1,6 @@
+{
+  "levelUp": "レベル{{level}} 開始。スモールブラインド {{sb}}、ビッグブラインド {{bb}}",
+  "levelUpAnte": "レベル{{level}} 開始。スモールブラインド {{sb}}、ビッグブラインド {{bb}}、アンティ {{ante}}",
+  "oneMinute": "残り1分です",
+  "breakStart": "休憩です。{{duration}}分間休憩します"
+}

@@ -1,0 +1,6 @@
+{
+  "levelUp": "Level {{level}} starting. Blinds {{sb}} / {{bb}}",
+  "levelUpAnte": "Level {{level}} starting. Blinds {{sb}} / {{bb}}, Ante {{ante}}",
+  "oneMinute": "One minute remaining",
+  "breakStart": "Break time. {{duration}} minutes"
+}
